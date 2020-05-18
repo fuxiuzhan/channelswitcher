@@ -1,2 +1,13 @@
-# channelswither
-tcp channel switcher
+# channelswitch
+channel switch定位位集中式，分布式，高效高速的集中式链接管理框架。使用netty作为网络通讯框架，提供数据加密，压缩，校验等任意传输数据的处理手段。
+
+# 目前计划的模块有
+## 通讯层
+## 数据处理链
+## 数据dispatcher
+## 报文处理体系
+## 鉴权模块
+## 用户管理模块
+## 统计模块
+## 规则模块
+## 对外接口层
