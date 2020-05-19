@@ -7,6 +7,7 @@
         <module>connector</module>
         <module>listener</module>
         <module>common</module>
+        <module>api</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
