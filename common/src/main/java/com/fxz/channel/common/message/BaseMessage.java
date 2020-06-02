@@ -1,4 +1,4 @@
-package com.fxz.channelswitcher.server.message;
+package com.fxz.channel.common.message;
 
 /**
  * 基础报文

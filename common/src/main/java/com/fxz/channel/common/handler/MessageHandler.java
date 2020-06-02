@@ -1,4 +1,4 @@
-package com.fxz.channelswitcher.server.handler;
+package com.fxz.channel.common.handler;
 
 /**
  * 命令处理器

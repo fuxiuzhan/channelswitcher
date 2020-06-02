@@ -1,4 +1,4 @@
-package com.fxz.channelswitcher.server.codec;
+package com.fxz.channel.common.codec;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.handler.codec.MessageToMessageCodec;
